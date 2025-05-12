@@ -128,6 +128,16 @@ My take: **[Foundational software][]**
 
 ---
 
+# Foundational software needs non-foundational software
+
+![What](./images/what.gif)
+
+---
+
+# The value of versatility
+
+---
+
 # Thinking beyond adoption
 
 What is Rust's *mission*?
