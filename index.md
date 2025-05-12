@@ -31,15 +31,27 @@ I imagine most of you know me from this role.
 
 # What hats am I wearing now?
 
+--
+
 None of those!
 
 ---
 
-# Co-lead of the Rust vision doc goal
+# Current focus
+
+## Rust vision doc goal
 
 ---
 
 # What is the vision doc?
+
+Attempting to answer the question:
+
+*What comes next for Rust?*
+
+---
+
+# It begins with data
 
 Capture feedback from Rust users, maintainers, and adopters 
 
@@ -49,9 +61,34 @@ What big picture goals should Rust pursue to move the needle?
 
 ---
 
-# Why the vision doc?
+# Synthesizing
 
-## It's time for us to think beyond "adoption"
+Read through the data, identify themes
+
+---
+
+# Expected result
+
+## About Rust
+
+* "What is Rust's mission?"
+* "What do people value most in Rust? When do they choose to use Rust and why?"
+* "What would help Rust to succeed in domain X?"
+* "What would help Rust to succeed in area X?"
+
+--
+
+## About how we build Rust
+
+* "How can we tap into the knowledge, experience, and enthusiasm of a growing Rust userbase to improve Rust?"
+* "How can we make contributing to Rust **joyful?**"
+well-supported?"
+
+---
+
+# What is Rust's *mission*
+
+It's time for us to think beyond "adoption"
 
 ---
 
