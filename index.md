@@ -49,6 +49,12 @@ What big picture goals should Rust pursue to move the needle?
 
 ---
 
+# Why the vision doc?
+
+## It's time for us to think beyond "adoption"
+
+---
+
 # What is Rust *for*?
 
 * Async systems?
@@ -59,15 +65,38 @@ What big picture goals should Rust pursue to move the needle?
 
 ---
 
-# My take
+# What is Rust *for*?
 
-## *oundational* systems
+My take: **[Foundational software][]**
+
+[Foundational software]: https://smallcultfollowing.com/babysteps/blog/2025/03/10/rust-2025-intro/
 
 ---
 
-# Why the vision doc?
+# What foundational software needs to be
 
-## It's time for us to think beyond "adoption"
+* Reliable and secure: **if it compiles, it works**
+* Performant: **zero-cost abstractions**, **fearless concurrency**
+* Stable: **stability without stagnation**
+* Low-level control: **TBD** (1)
+
+.footnote[
+    (1) We...don't have an establish slogan for this. I tend to think "**no limits**" in my head.
+]
+
+---
+
+# What foundational software SHOULD NOT be
+
+* Inaccessible and obscure
+
+---
+
+# Thinking beyond adoption
+
+What is Rust's *mission*?
+
+*Foundational software for everyone*
 
 ---
 
@@ -75,21 +104,69 @@ What big picture goals should Rust pursue to move the needle?
 
 ## To help us have some needed conversations
 
-
-
-
 ---
 
-# Code example
+# Wearing my Amazon hat...
 
-```rust
-fn main() {
-    println!("Hello, world");
-}
-```
+## Rust application domains
+
+* At-scale network services in AWS
+* Consumer devices
 
 --
 
-.line1[![Arrow](./images/Arrow.png)]
+## Memory safety is a key enabler
 
-You can add arrows like this!
+Amazon bet big on Java and it paid off
+
+--
+
+## Ecosystem is great but...
+
+* Rising regulatory requirements
+* Single-maintainer crates
+* Upgrades make me nervous
+
+---
+
+# Main groups
+
+* Individual Rust users
+
+--
+* Global Rust communities
+
+--
+* Rust maintainers
+
+--
+* **Companies adopting or considering Rust**
+
+---
+
+# What I want to hear from you
+
+* Your company's journey to Rust (or not).
+* Describe your experiences onboarding folks to Rust.
+* What have you used Rust for? What worked well?
+* Where have you found Rust does not work well?
+* What concerns do you hear about using Rust?
+
+---
+
+# How we work
+
+* Interviews, 30-45 minutes
+* No wrong answers
+
+---
+
+# Call to action
+
+Surprise! We're going to be running a series of 5 interview slots today!
+
+https://calendly.com/nikomatsakis/rustweek-industry-track
+
+If you'd like to participate, go ahead and sign-up! One per company.
+
+If you don't get a slot, email me at <rust@nikomatsakis.com> and I'll add you to the pool of potential interviewees.
