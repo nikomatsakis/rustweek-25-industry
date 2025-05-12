@@ -82,11 +82,10 @@ Read through the data, identify themes
 
 * "How can we tap into the knowledge, experience, and enthusiasm of a growing Rust userbase to improve Rust?"
 * "How can we make contributing to Rust **joyful?**"
-well-supported?"
 
 ---
 
-# What is Rust's *mission*
+# What is Rust's *mission*?
 
 It's time for us to think beyond "adoption"
 
@@ -102,7 +101,7 @@ It's time for us to think beyond "adoption"
 
 ---
 
-# What is Rust *for*?
+# What is Rust *optimized for*?
 
 My take: **[Foundational software][]**
 
